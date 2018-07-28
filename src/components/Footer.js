@@ -53,7 +53,7 @@ const Copyright = styled.div`
 const Footer = ({data, children}) => (
 
     <FooterGroup>
-        <Text>Tweet "Prototype and build apps with React and Swift. New courses by @MengTo"</Text>
+        <Text>Usama Minegishi, Sonarism, Inc. CEO,  has gone through this course!! Amazing way to build a website. will be doing this over and over hopefully!! Reuse components for lots of people... getting into the react world!  Tweet "Prototype and build apps with React and Swift. New courses by @MengTo"</Text>
         <Button>Tweet</Button>
         <LinkGroup>
             {data.allContentfulLink.edges.map(edge => (
